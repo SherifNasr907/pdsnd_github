@@ -11,5 +11,5 @@ Investigate bikeshare data
 bikeshare.py
 
 ### Credits
-Udacity Nanodegree of programming for data science
+(Udacity Nanodegree of programming for data science)
 
